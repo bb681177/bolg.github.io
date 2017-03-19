@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Android | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2017-03-19T23:35:43+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[级客学院]]></title>
+    <link href="http://yoursite.com/blog/2017/03/19/jikexueyuan/"/>
+    <updated>2017-03-19T23:26:43+08:00</updated>
+    <id>http://yoursite.com/blog/2017/03/19/jikexueyuan</id>
+    <content type="html"><![CDATA[<h1>你好</h1>
+
+<h2>你可以学到你想要的</h2>
+
+<p><code>加亮</code></p>
+
+<ul>
+<li>Android
+
+<ul>
+<li>http</li>
+<li>sqlite3</li>
+</ul>
+</li>
+<li>PHP</li>
+<li>HTML</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.jikexueyuan.com">极客学院</a></p>
+
+<p><img src="http://ubmcmm.baidustatic.com/media/v1/0f000PsREsjPbrLlS0L0D6.jpg" alt="image" /></p>
+]]></content>
+  </entry>
+  
+</feed>
