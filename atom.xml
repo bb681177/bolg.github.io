@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2017-03-19T23:35:43+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://bb681177.github.io/atom.xml" rel="self"/>
+  <link href="http://bb681177.github.io/"/>
+  <updated>2017-03-19T23:48:49+08:00</updated>
+  <id>http://bb681177.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[级客学院]]></title>
-    <link href="http://yoursite.com/blog/2017/03/19/jikexueyuan/"/>
+    <link href="http://bb681177.github.io/blog/2017/03/19/jikexueyuan/"/>
     <updated>2017-03-19T23:26:43+08:00</updated>
-    <id>http://yoursite.com/blog/2017/03/19/jikexueyuan</id>
+    <id>http://bb681177.github.io/blog/2017/03/19/jikexueyuan</id>
     <content type="html"><![CDATA[<h1>你好</h1>
 
 <h2>你可以学到你想要的</h2>
