@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://bb681177.github.io/sitemap.xml 
+Sitemap: http://bb681177.github.io/bolg.github.io//sitemap.xml
